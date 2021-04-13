@@ -1,0 +1,31 @@
+---
+title: "Erin Baumgart"
+image: "images/Erin_Scotland.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com"
+  - label: Twitter
+    url: "https://twitter.com"
+  - label: GitHub
+    url: "https://github.com"
+  - label: Email
+    url: "mailto:eebaumgart@gmail.com"
+output:
+  postcards::jolla
+site: distill::distill_website
+description: |
+  Welcome to my website. I hope you enjoy it!
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+I am a current graduate student at Oregon State University.  Currently, I'm studying plant physiology differences with their transition from a greenhouse to a field environment.

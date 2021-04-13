@@ -1,0 +1,17 @@
+name: "."
+title: "Erin Baumgart"
+description: |
+  Erin Baumgart
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home Page"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    - text: "Presentations"
+      href: teaching.html   
+    - icon: fab fa-github
+      href: https://github.com/eebaumgart/FOR505_coursework
+output: distill::distill_article
+theme: theme.css
