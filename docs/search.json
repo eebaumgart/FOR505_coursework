@@ -5,16 +5,16 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-13T11:49:28-07:00"
+      "contents": "\r\nCurrent publications\r\nConsequences of reduced light for flower production in conifer-invaded meadows of the Pacific Northwest, U.S.A\r\nAnother article\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-13T12:52:05-07:00"
     },
     {
       "path": "index.html",
       "title": "Erin Baumgart",
       "description": "Welcome to my website. I hope you enjoy it!",
       "author": [],
-      "contents": "\r\n\r\n          \r\n      \r\n      Erin Baumgart\r\n      \r\n      \r\n      Home Page\r\n      About Me\r\n      Presentations\r\n      \r\n      \r\n      \r\n      ☰\r\n      \r\n      \r\n      \r\n        \r\n          \r\n            Erin Baumgart\r\n          \r\n          \r\n            \r\n              I am a current graduate student at Oregon State University. Currently, I’m studying plant physiology differences with their transition from a greenhouse to a field environment.\r\n            \r\n            \r\n              I am a current graduate student at Oregon State University. Currently, I’m studying plant physiology differences with their transition from a greenhouse to a field environment.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2021-04-13T11:49:29-07:00"
+      "contents": "\r\n\r\n          \r\n      \r\n      Erin Baumgart\r\n      \r\n      \r\n      Home Page\r\n      Presentations\r\n      \r\n      \r\n      Publications\r\n       \r\n      ▾\r\n      \r\n      \r\n      First article\r\n      Second article\r\n      \r\n      \r\n      \r\n      \r\n      \r\n      ☰\r\n      \r\n      \r\n      \r\n        \r\n          \r\n            Erin Baumgart\r\n          \r\n          \r\n            \r\n              I am a current graduate student at Oregon State University. Currently, I’m studying plant physiology differences with their transition from a greenhouse to a field environment.\r\n            \r\n            \r\n              I am a current graduate student at Oregon State University. Currently, I’m studying plant physiology differences with their transition from a greenhouse to a field environment.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-04-13T12:52:06-07:00"
     },
     {
       "path": "teaching.html",
@@ -28,7 +28,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-13T11:49:32-07:00"
+      "last_modified": "2021-04-13T12:52:09-07:00"
     }
   ],
   "collections": []

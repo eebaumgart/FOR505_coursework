@@ -7,10 +7,15 @@ navbar:
   right:
     - text: "Home Page"
       href: index.html
-    - text: "About Me"
-      href: about.html
     - text: "Presentations"
+      href: about.html
+    - text: "Publications"
       href: teaching.html   
+      menu:
+         - text: "First article"
+           href: articles/article1.html
+         - text: "Second article"
+           href: articles/article2.html      
     - icon: fab fa-github
       href: https://github.com/eebaumgart/FOR505_coursework
 output: distill::distill_article
